@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hotseat-mediator/static/js/main.8f00b432.chunk.js",
+    "main.js.map": "/hotseat-mediator/static/js/main.8f00b432.chunk.js.map",
+    "runtime-main.js": "/hotseat-mediator/static/js/runtime-main.da43fd37.js",
+    "runtime-main.js.map": "/hotseat-mediator/static/js/runtime-main.da43fd37.js.map",
+    "static/js/2.ccbd5b08.chunk.js": "/hotseat-mediator/static/js/2.ccbd5b08.chunk.js",
+    "static/js/2.ccbd5b08.chunk.js.map": "/hotseat-mediator/static/js/2.ccbd5b08.chunk.js.map",
+    "index.html": "/hotseat-mediator/index.html",
+    "static/js/2.ccbd5b08.chunk.js.LICENSE.txt": "/hotseat-mediator/static/js/2.ccbd5b08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da43fd37.js",
+    "static/js/2.ccbd5b08.chunk.js",
+    "static/js/main.8f00b432.chunk.js"
+  ]
+}
