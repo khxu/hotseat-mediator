@@ -52,3 +52,28 @@ Thanks for reading this far. After practicing law and running a civil litigation
 practice in Silicon Valley for nearly a decade, I started to study some programming
 for fun. This is the first product. If you have any tips or improvements, 
 please feel free to email me.
+
+## Running the React Webapp
+
+To run the React webapp locally, follow these steps:
+
+1. Navigate to the `webapp` directory:
+   ```
+   cd webapp
+   ```
+
+2. Install the dependencies:
+   ```
+   npm install
+   ```
+
+3. Start the development server:
+   ```
+   npm start
+   ```
+
+The webapp will be available at `http://localhost:3000`.
+
+## Deployed Webapp
+
+You can access the deployed webapp on GitHub Pages [here](https://khxu.github.io/hotseat-mediator).
