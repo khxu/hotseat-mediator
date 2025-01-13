@@ -22,5 +22,8 @@
     "gh-pages": "^3.2.3"
   },
   "author": "Dan Velton",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  }
 }
